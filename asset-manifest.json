@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Form-Validation-with-D3_liberary/static/css/main.fa24da30.chunk.css",
+    "main.js": "/Form-Validation-with-D3_liberary/static/js/main.4b0ad6be.chunk.js",
+    "main.js.map": "/Form-Validation-with-D3_liberary/static/js/main.4b0ad6be.chunk.js.map",
+    "runtime-main.js": "/Form-Validation-with-D3_liberary/static/js/runtime-main.2f34d5fb.js",
+    "runtime-main.js.map": "/Form-Validation-with-D3_liberary/static/js/runtime-main.2f34d5fb.js.map",
+    "static/js/2.9031ebb6.chunk.js": "/Form-Validation-with-D3_liberary/static/js/2.9031ebb6.chunk.js",
+    "static/js/2.9031ebb6.chunk.js.map": "/Form-Validation-with-D3_liberary/static/js/2.9031ebb6.chunk.js.map",
+    "index.html": "/Form-Validation-with-D3_liberary/index.html",
+    "static/css/main.fa24da30.chunk.css.map": "/Form-Validation-with-D3_liberary/static/css/main.fa24da30.chunk.css.map",
+    "static/js/2.9031ebb6.chunk.js.LICENSE.txt": "/Form-Validation-with-D3_liberary/static/js/2.9031ebb6.chunk.js.LICENSE.txt",
+    "static/media/bg.ea949703.png": "/Form-Validation-with-D3_liberary/static/media/bg.ea949703.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f34d5fb.js",
+    "static/js/2.9031ebb6.chunk.js",
+    "static/css/main.fa24da30.chunk.css",
+    "static/js/main.4b0ad6be.chunk.js"
+  ]
+}
